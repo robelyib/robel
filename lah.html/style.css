@@ -1,0 +1,34 @@
+body{
+font-family: arial,sans-serif;
+background-color: fuchsia;
+}
+head{
+    background-color: chartreuse;
+    color: aqua;
+    padding: 10px;}
+     a:link{
+        color:yellow;
+        
+       }
+       a:visited{
+        color: aqua;
+       }
+       a:hover{
+        color:green;
+       }
+    a:active{
+        color:white;
+    }
+    nav{
+        font-size: larger;
+    }
+    #nm{
+        background-color: greenyellow; 
+        height: 100px; 
+        text-align: center;
+    }
+    #mn{
+        background-color:darkgreen;
+        width: 100%;
+        height: 600px;
+    }
